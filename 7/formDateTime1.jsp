@@ -7,7 +7,7 @@
 <section>
 <h2>JSP form</h2>
 <section>
-<h2>남짜; <%= request.getParameter("datex")%><brl></h2>
+<h2>날짜; <%= request.getParameter("datex")%><brl></h2>
 <h2>시간: <%= request.getParameter("timex")%><br/></h2>
 </section>
 </section>
